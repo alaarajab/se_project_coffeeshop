@@ -24,7 +24,7 @@ The website allows users to:
 
 ## Plan on improving the project
 
-n the future, I would like to:
+in the future, I would like to:
 
 - Add More Interactivity by Implementing JavaScript to make the reservation form more dynamic, such as validating form inputs in real time and displaying confirmation messages.
 
